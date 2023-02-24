@@ -38,14 +38,11 @@
                         <mxPoint x="380" y="399.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="12" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
+                <mxCell id="12" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="41">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="380" y="400" as="sourcePoint"/>
                         <mxPoint x="380" y="480" as="targetPoint"/>
                     </mxGeometry>
-                </mxCell>
-                <mxCell id="13" value="son iguales" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-                    <mxGeometry x="300" y="480" width="160" height="160" as="geometry"/>
                 </mxCell>
                 <mxCell id="14" value="" style="endArrow=none;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,7 +113,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="37" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="37" value="" style="endArrow=none;html=1;entryX=0.494;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="41">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="380" y="840" as="sourcePoint"/>
                         <mxPoint x="380" y="640" as="targetPoint"/>
@@ -127,6 +124,9 @@
                         <mxPoint x="120" y="840" as="sourcePoint"/>
                         <mxPoint x="380" y="840" as="targetPoint"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="son iguales" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="500" width="180" height="140" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
